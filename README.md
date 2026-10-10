@@ -6,8 +6,8 @@
 
 仓库发布到 GitHub Pages 后，访问：
 
-- 作品集首页：`https://i-ikun2004.github.io/html-showcase/`
-- 拾鲜集：`https://i-ikun2004.github.io/html-showcase/projects/shixianji/`
+- 作品集首页：`https://i-ikun2004.github.io/wangye/`
+- 拾鲜集：`https://i-ikun2004.github.io/wangye/projects/shixianji/index.html`
 
 > 上述地址需在仓库创建并启用 GitHub Pages 后才会生效。
 
