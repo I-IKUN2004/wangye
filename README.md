@@ -8,6 +8,7 @@
 
 - 作品集首页：`https://i-ikun2004.github.io/wangye/`
 - 拾鲜集：`https://i-ikun2004.github.io/wangye/projects/shixianji/index.html`
+- 夜航日志：`https://i-ikun2004.github.io/wangye/projects/nightlog/index.html`
 
 > 上述地址需在仓库创建并启用 GitHub Pages 后才会生效。
 
@@ -16,6 +17,7 @@
 | 作品 | 简介 | 入口 |
 | --- | --- | --- |
 | 拾鲜集 | 九个子页面的响应式超市购物演示，包含搜索、筛选、商品详情、收藏、购物车、优惠码与演示订单 | [进入项目](projects/shixianji/index.html) |
+| 夜航日志 | 暮色动漫风个人博客，包含个人名片、原创背景音乐、可搜索和阅读的手记、作品与 GitHub 入口 | [进入项目](projects/nightlog/index.html) |
 
 ## 目录结构
 
@@ -23,6 +25,13 @@
 index.html                 # 作品集首页
 assets/portfolio.css       # 作品集样式
 projects/
+  nightlog/                # 第二个项目：个人博客
+    index.html
+    style.css
+    script.js
+    assets/twilight-lake.webp
+    assets/profile.webp
+    assets/starlight.mp3
   shixianji/
     index.html             # 拾鲜集首页
     shop.html              # 商品列表
